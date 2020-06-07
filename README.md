@@ -5,7 +5,7 @@ users.yml file:
 
 ---
 users:
-#   - username: support2
-#     use_sudo: yes
-#  - username: andrew
-#    use_sudo: yes
+   - username: support2
+     use_sudo: yes
+  - username: andrew
+    use_sudo: yes
